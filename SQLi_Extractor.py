@@ -55,7 +55,7 @@ def main():
     password = extract_password(url, username)
     
     if password:
-        print(f'\nA hash da senha do usuário "{username}" é: {password}')
+        print(f'\nO hash da senha do usuário "{username}" é: {password}')
     else:
         print('\n[❌] Não foi possível obter a senha.')
 
