@@ -24,6 +24,7 @@ O script utiliza SQL Injection Blind para testar caractere por caractere da senh
 Certifique-se de que os seguintes requisitos estão instalados no seu sistema:
 
 Python 3.x
+
 Bibliotecas Python necessárias:
 
 pip install requests
