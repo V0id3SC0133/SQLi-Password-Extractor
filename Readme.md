@@ -2,13 +2,20 @@
 
 O SQLi Password Extractor é uma ferramenta automatizada desenvolvida para explorar vulnerabilidades de SQL Injection Blind em aplicações web. Ela permite extrair hashes de senhas com precisão, sendo especialmente útil para laboratórios controlados e treinamentos de segurança.
 
-🚀 Características
+🚀 Características:
+
 ✅ Compatível com Windows, Linux e macOS
+
 ✅ Configuração simples e intuitiva
+
 ✅ Interface interativa no terminal
+
 ✅ Suporte para exploração manual e automatizada
+
 ✅ Pausa visual para monitoramento de progresso
+
 ✅ Extração passo a passo de hashes de senhas
+
 
 ⚙️ Como funciona?
 
