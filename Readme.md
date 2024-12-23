@@ -12,8 +12,6 @@ O SQLi Password Extractor é uma ferramenta automatizada desenvolvida para explo
 
 ✅ Suporte para exploração manual e automatizada
 
-✅ Pausa visual para monitoramento de progresso
-
 ✅ Extração passo a passo de hashes de senhas
 
 
@@ -43,20 +41,13 @@ Execute o script:
 python3 sqli_extractor.py
 Exemplo de uso:
 
-Qual é a URL vulnerável a SQLi? http://exemplo.com
-Qual é o path vulnerável a SQLi? /forgot_password.php
-Qual é o nome do usuário válido? admin
+![image](https://github.com/user-attachments/assets/02d3430d-8dbf-4621-807f-9daba3fafad1)
+
 
 📊 Exemplo de Saída
 
-=== SQL Injection Blind - Extrator de Senha ===
+![image](https://github.com/user-attachments/assets/6af82b1d-b373-46e4-b763-c4930da2c02a)
 
-Iniciando extração de senha para o usuário: admin
-Testando caracteres para o usuário válido: admin
-[+] Testando posição 1 com caractere: a - Caractere encontrado: a
-[+] Testando posição 2 com caractere: b - Caractere encontrado: b
-
-A hash da senha do usuário é: abcd1234
 
 🐍 Dependências Automáticas
 
