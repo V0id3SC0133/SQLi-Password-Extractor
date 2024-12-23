@@ -50,6 +50,7 @@ Qual é o nome do usuário válido? admin
 📊 Exemplo de Saída
 
 === SQL Injection Blind - Extrator de Senha ===
+
 Iniciando extração de senha para o usuário: admin
 Testando caracteres para o usuário válido: admin
 [+] Testando posição 1 com caractere: a - Caractere encontrado: a
