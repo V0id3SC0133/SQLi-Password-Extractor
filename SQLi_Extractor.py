@@ -17,7 +17,7 @@ def extract_password(url, username):
     password = ''
     position = 1  # Começa pela primeira posição
     
-    print(f'\nIniciando extração da senha para o usuário: {username}\n')
+    print(f'\nIniciando extração do hash da senha para o usuário: {username}\n')
     
     with requests.Session() as session:
         while True:
