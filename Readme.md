@@ -57,14 +57,10 @@ Se algum módulo estiver faltando, o script tentará instalá-lo automaticamente
 pip install requests
 Importante: Execute o script com permissões adequadas na primeira vez:
 
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
-
-## Autor
-
-Criado por [ESC0133](https://github.com/ESC0133).
-sudo python3 sqli_extractor.py
-
-⚠️ Isenção de responsabilidade
+## ⚠️ Isenção de responsabilidade
 Este script é fornecido apenas para fins educacionais e deve ser usado em ambientes controlados com autorização prévia. O uso indevido é de total responsabilidade do usuário.
+
+
+
+
+
