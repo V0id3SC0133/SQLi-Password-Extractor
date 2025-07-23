@@ -60,7 +60,10 @@ Importante: Execute o script com permissões adequadas na primeira vez:
 ## ⚠️ Isenção de responsabilidade
 Este script é fornecido apenas para fins educacionais e deve ser usado em ambientes controlados com autorização prévia. O uso indevido é de total responsabilidade do usuário.
 
-
+## Autor
+## 👨‍💻 Autor
+- **Ernani S. C.**
+- **Nickname:** v0id3SC0133
 
 
 
