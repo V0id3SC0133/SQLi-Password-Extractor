@@ -63,7 +63,7 @@ Este script é fornecido apenas para fins educacionais e deve ser usado em ambie
 ## Autor
 ## 👨‍💻 Autor
 - **Ernani S. C.**
-- **Nickname:** v0id3SC0133
+- **Nickname:** 3SC0133
 
 
 
